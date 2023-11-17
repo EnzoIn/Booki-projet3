@@ -259,6 +259,7 @@ button {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  height: 100%;
 }
 
 .hebergements-cards img {
@@ -443,9 +444,9 @@ footer ul {
   }
 
   /***** Activités ******/
-.activites figcaption {
-  padding: 15px 0 0 15px;
-}
+  .activites figcaption {
+    padding: 13px 0 0 13px;
+  }
 
   .activites img {
     height: 200px;
