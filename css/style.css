@@ -485,11 +485,12 @@ footer ul {
   }
 
   header p {
-    padding-top: 0;
+    padding-top: 15px;
   }
   /***** Nav bar *****/
   nav {
     flex-direction: column;
+    padding-bottom: 20px;
   }
 
   nav a {
